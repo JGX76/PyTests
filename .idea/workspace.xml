@@ -2,16 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07834d03-9d55-484d-92cf-8acf62db07d6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PyTests" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/JGX76/PyTests.git" />
+      </set>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/hello.py" root0="FORCE_HIGHLIGHTING" />
@@ -40,6 +50,14 @@
       <option name="presentableId" value="Default" />
       <updated>1581118155123</updated>
     </task>
+    <task id="LOCAL-00001" summary="acceped">
+      <created>1581120680036</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581120680036</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,7 +105,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="acceped" />
+    <option name="LAST_COMMIT_MESSAGE" value="acceped" />
   </component>
   <component name="WindowStateProjectService">
     <state x="279" y="59" width="810" height="681" key="#Notifications" timestamp="1581119907130">
@@ -98,10 +117,10 @@
       <screen x="0" y="27" width="1368" height="741" />
     </state>
     <state x="142" y="27" width="1084" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1368.741@0.27.1368.741" timestamp="1581119789089" />
-    <state x="299" y="27" key="CommitChangelistDialog2" timestamp="1581120521193">
+    <state x="299" y="27" key="CommitChangelistDialog2" timestamp="1581120679918">
       <screen x="0" y="27" width="1368" height="741" />
     </state>
-    <state x="299" y="27" key="CommitChangelistDialog2/0.27.1368.741@0.27.1368.741" timestamp="1581120521193" />
+    <state x="299" y="27" key="CommitChangelistDialog2/0.27.1368.741@0.27.1368.741" timestamp="1581120679918" />
     <state x="95" y="122" width="1178" height="551" key="DiffContextDialog" timestamp="1581120489347">
       <screen x="0" y="27" width="1368" height="741" />
     </state>
@@ -114,10 +133,10 @@
       <screen x="0" y="27" width="1368" height="741" />
     </state>
     <state x="350" y="225" key="com.intellij.ide.util.TipDialog/0.27.1368.741@0.27.1368.741" timestamp="1581119364581" />
-    <state x="461" y="317" width="445" height="164" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581120545888">
+    <state x="461" y="317" width="445" height="164" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581120688393">
       <screen x="0" y="27" width="1368" height="741" />
     </state>
-    <state x="461" y="317" width="445" height="164" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1368.741@0.27.1368.741" timestamp="1581120545888" />
+    <state x="461" y="317" width="445" height="164" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1368.741@0.27.1368.741" timestamp="1581120688393" />
     <state x="422" y="112" width="523" height="574" key="git4idea.branch.GitSmartOperationDialog" timestamp="1581119899389">
       <screen x="0" y="27" width="1368" height="741" />
     </state>
