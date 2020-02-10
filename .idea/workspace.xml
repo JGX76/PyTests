@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07834d03-9d55-484d-92cf-8acf62db07d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/hello.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DiceGUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/DiceGUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +41,36 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.DiceGUI">
+    <configuration name="DiceGUI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyTests" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DiceGUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.DiceGUI" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -57,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581120680036</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="acceped">
+      <created>1581120817961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581120817961</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,14 +153,26 @@
       <screen x="0" y="27" width="1368" height="741" />
     </state>
     <state x="279" y="59" width="810" height="681" key="#Notifications/0.27.1368.741@0.27.1368.741" timestamp="1581119907130" />
+    <state x="279" y="61" width="810" height="681" key="#Updates" timestamp="1581266868558">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state x="279" y="61" width="810" height="681" key="#Updates/0.27.1368.741@0.27.1368.741" timestamp="1581266868558" />
     <state x="142" y="27" width="1084" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581119789089">
       <screen x="0" y="27" width="1368" height="741" />
     </state>
     <state x="142" y="27" width="1084" height="741" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1368.741@0.27.1368.741" timestamp="1581119789089" />
-    <state x="299" y="27" key="CommitChangelistDialog2" timestamp="1581120679918">
+    <state x="434" y="121" width="500" height="557" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1581266785339">
       <screen x="0" y="27" width="1368" height="741" />
     </state>
-    <state x="299" y="27" key="CommitChangelistDialog2/0.27.1368.741@0.27.1368.741" timestamp="1581120679918" />
+    <state x="434" y="121" width="500" height="557" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.27.1368.741@0.27.1368.741" timestamp="1581266785339" />
+    <state x="365" y="27" key="#hello" timestamp="1581120946111">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state x="365" y="27" key="#hello/0.27.1368.741@0.27.1368.741" timestamp="1581120946111" />
+    <state x="299" y="27" key="CommitChangelistDialog2" timestamp="1581120817917">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state x="299" y="27" key="CommitChangelistDialog2/0.27.1368.741@0.27.1368.741" timestamp="1581120817917" />
     <state x="95" y="122" width="1178" height="551" key="DiffContextDialog" timestamp="1581120489347">
       <screen x="0" y="27" width="1368" height="741" />
     </state>
@@ -129,14 +181,34 @@
       <screen x="0" y="27" width="1368" height="741" />
     </state>
     <state x="540" y="294" key="Github.ShareDialog/0.27.1368.741@0.27.1368.741" timestamp="1581119581745" />
-    <state x="350" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1581119364581">
+    <state width="1347" height="178" key="GridCell.Tab.0.bottom" timestamp="1581363014349">
       <screen x="0" y="27" width="1368" height="741" />
     </state>
-    <state x="350" y="225" key="com.intellij.ide.util.TipDialog/0.27.1368.741@0.27.1368.741" timestamp="1581119364581" />
-    <state x="461" y="317" width="445" height="164" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581120688393">
+    <state width="1347" height="178" key="GridCell.Tab.0.bottom/0.27.1368.741@0.27.1368.741" timestamp="1581363014349" />
+    <state width="1347" height="178" key="GridCell.Tab.0.center" timestamp="1581363014065">
       <screen x="0" y="27" width="1368" height="741" />
     </state>
-    <state x="461" y="317" width="445" height="164" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1368.741@0.27.1368.741" timestamp="1581120688393" />
+    <state width="1347" height="178" key="GridCell.Tab.0.center/0.27.1368.741@0.27.1368.741" timestamp="1581363014065" />
+    <state width="1347" height="178" key="GridCell.Tab.0.left" timestamp="1581363013937">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state width="1347" height="178" key="GridCell.Tab.0.left/0.27.1368.741@0.27.1368.741" timestamp="1581363013937" />
+    <state width="1347" height="178" key="GridCell.Tab.0.right" timestamp="1581363014188">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state width="1347" height="178" key="GridCell.Tab.0.right/0.27.1368.741@0.27.1368.741" timestamp="1581363014188" />
+    <state x="173" y="32" width="1022" height="734" key="SettingsEditor" timestamp="1581363162981">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state x="173" y="32" width="1022" height="734" key="SettingsEditor/0.27.1368.741@0.27.1368.741" timestamp="1581363162981" />
+    <state x="350" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1581360407971">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state x="350" y="225" key="com.intellij.ide.util.TipDialog/0.27.1368.741@0.27.1368.741" timestamp="1581360407971" />
+    <state x="461" y="317" width="445" height="164" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581360429375">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state x="461" y="317" width="445" height="164" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1368.741@0.27.1368.741" timestamp="1581360429375" />
     <state x="422" y="112" width="523" height="574" key="git4idea.branch.GitSmartOperationDialog" timestamp="1581119899389">
       <screen x="0" y="27" width="1368" height="741" />
     </state>

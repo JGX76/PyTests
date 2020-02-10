@@ -10,5 +10,5 @@ secDice = randint(1, 6)
 thirdDice = randint(1, 6)
 
 print(NamePlayer, " Launch the dices and make a", firstDice, " a ", secDice, " and a ", thirdDice)
-
+h
 

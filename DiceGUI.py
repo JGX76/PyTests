@@ -9,7 +9,7 @@ contents = [[sg.Button('Roll your dice')],
 
 layout = [[sg.Col(contents, element_justification='c')]]        # Put into a column so can center everything
 
-window = sg.Window('Window Title', layout, margins=(0,0), text_justification='center', font='Any 14', element_padding=(0,0))
+window = sg.Window('Window Title', layout, margins=(0,0), text_justification='center', font='Any 14', element_padding=(5,5))
 
 player = p1_score = p2_score = score = 0
 fixed_dice = [0]*nb_dice
